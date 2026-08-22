@@ -11,6 +11,4 @@
 
 ---
 
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=chawnima&style=flat-square)
-</p>
+![](https://komarev.com/ghpvc/?username=chawnima&style=flat-square)
